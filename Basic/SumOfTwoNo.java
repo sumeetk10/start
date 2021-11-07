@@ -1,8 +1,8 @@
-package src;
+package Basic;
 
 import java.util.Scanner;
 
-public class sum {
+public class SumOfTwoNo {
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in);
